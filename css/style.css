@@ -5,23 +5,23 @@ body {
     margin: auto;
 }
 
-.navigation-header{
+#navigation-header{
     margin: auto;
 }
 
-.menu{
+#menu{
     background-color: rgb(197, 197, 178);
     padding: 18px;
     text-align: center;
 }
 
-.main{
+#main{
     background-color: #e8e8d9;
     margin: auto;
     padding: 10px;
 }
 
-.footer{
+#footer{
     text-align: center;
 }
 
@@ -31,21 +31,21 @@ body {
     border: 10px outset #c3c3ae;
 }
 
-.main p{
+#main p{
     text-align: justify;
 }
 
-.main h2 {
+#main h2 {
     color: rgb(143, 130, 113);
 }
 
-.menu a{
+#menu a{
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
     margin: 10px;
 }
 
-.menu a:hover{
+#menu a:hover{
     color: rgb(104, 117, 141);
 }

@@ -1,2 +1,2 @@
 # ProjetoAnaBella
- Projeto para estudo
+ Projeto para estudo, treinando div e algumas funcionalidades de CSS.

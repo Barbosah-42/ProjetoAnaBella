@@ -25,6 +25,12 @@ body {
     text-align: center;
 }
 
+.img-campanhas{
+    width: 600px;
+    height: 450px;
+    border: 10px outset #c3c3ae;
+}
+
 .main p{
     text-align: justify;
 }

@@ -1,21 +1,45 @@
 body {
     background: #d2d2c1 url(../img/fundo.png);
     font: 16px arial, helvetica, sans-serif;
+    width: 900px;
+    margin: auto;
 }
 
 .navigation-header{
-    width: 900px;
     margin: auto;
-    border: 1px solid red;
 }
 
 .menu{
     background-color: rgb(197, 197, 178);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(75, 86, 106);
+    padding: 18px;
     text-align: center;
+}
+
+.main{
+    background-color: #e8e8d9;
+    margin: auto;
+    padding: 10px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.main p{
+    text-align: justify;
+}
+
+.main h2 {
+    color: rgb(143, 130, 113);
+}
+
+.menu a{
+    color: #4b566a;
     text-decoration: none;
     font-weight: bold;
-    padding: 18px;
+    margin: 10px;
+}
 
+.menu a:hover{
+    color: rgb(104, 117, 141);
 }
